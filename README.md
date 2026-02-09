@@ -1,5 +1,10 @@
 # Offline-AI-Assistant / 离线AI助手
 
+## App Download / 应用下载
+
+https://www.yzapp.cn/localai
+
+
 ## OpenAI Compatible API Usage Examples / OpenAI 兼容接口调用示例
 
 This project includes a built-in OpenAI compatible HTTP service, with the default endpoint at `http://<device-ip>:8080/v1/chat/completions`. After starting the service, you can use the following examples to make API calls.
