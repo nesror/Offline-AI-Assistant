@@ -2,8 +2,7 @@
 
 ## App Download / 应用下载
 
-[https://www.yzapp.cn/localai](https://191005.xyz/localai/)
-
+https://191005.xyz/localai/
 
 ## OpenAI Compatible API Usage Examples / OpenAI 兼容接口调用示例
 
