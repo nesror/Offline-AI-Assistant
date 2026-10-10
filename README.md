@@ -10,8 +10,8 @@ Gemma 4 · Qwen 3.5 · on-device inference · no internet, no account, no cloud.
 
 [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-3DDC84?logo=android&logoColor=white)](#download)
 [![Flutter](https://img.shields.io/badge/Flutter-3.47+-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-[![Offline](https://img.shields.io/badge/network-100%25%20offline-success)](#-100-offline-100-private)
-[![Privacy](https://img.shields.io/badge/data-stays%20on%20device-9cf)](#-privacy-by-design)
+[![Offline](https://img.shields.io/badge/network-100%25%20offline-success)](#highlights)
+[![Privacy](https://img.shields.io/badge/data-stays%20on%20device-9cf)](#highlights)
 [![Languages](https://img.shields.io/badge/i18n-11%20languages-orange)](#supported-languages)
 
 **[Download](https://191005.xyz/localai/)** ·

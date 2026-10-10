@@ -10,8 +10,8 @@ Gemma 4 · Qwen 3.5 · 端侧推理 · 无需联网、无需账号、无需云�
 
 [![Platform](https://img.shields.io/badge/平台-Android%20%7C%20iOS-3DDC84?logo=android&logoColor=white)](#下载)
 [![Flutter](https://img.shields.io/badge/Flutter-3.47+-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-[![Offline](https://img.shields.io/badge/网络-100%25%20离线-success)](#-百分百离线百分百私密)
-[![Privacy](https://img.shields.io/badge/数据-仅存本机-9cf)](#-隐私优先设计)
+[![Offline](https://img.shields.io/badge/网络-100%25%20离线-success)](#功能亮点)
+[![Privacy](https://img.shields.io/badge/数据-仅存本机-9cf)](#功能亮点)
 [![Languages](https://img.shields.io/badge/多语言-11%20种-orange)](#支持语言)
 
 **[下载](https://191005.xyz/localai/)** ·
